@@ -1,0 +1,1 @@
+Using Convolutional Neural Networks (CNNs) for machine learning task is a powerful approach, especially for image data and other grid-like data structures
