@@ -11,9 +11,15 @@ license
 contact
 
 # Features
-AI-Powered thread detection using advanced RCNN and CNN models to idenfify and repond to cybersecurity threats
+DENS AI model is used to detect illegitimate transaction from legitimate transaction Using TensorFlow.
 
 # Installation
+using https://colab.research.google.com/# 
+import tensorflow as tf
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+import numpy as np
+import pandas as pd
 
 
 
+the simu
